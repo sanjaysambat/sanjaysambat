@@ -1,6 +1,6 @@
 <div align="center">
 
-https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SANJAY.%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Data%20Science%20-%20Full%20Stack%20Developer&descAlignY=60&descSize=18%22
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SANJAY.%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Data%20Science%20-%20Full%20Stack%20Developer&descAlignY=60&descSize=18%22">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+the+making;AI+%26+Data+Science+Undergraduate;Presented+2+research+papers+(2026);Building+with+Python+%26+TypeScript" alt="Typing SVG" /></a>
 
